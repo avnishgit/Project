@@ -54,7 +54,7 @@ public class MainPage {
 		
 		JButton btnNewButton = new JButton("Create Account");
 		btnNewButton.setFont(new Font("Tahoma", Font.BOLD, 14));
-		btnNewButton.setBounds(43, 146, 159, 35);
+		btnNewButton.setBounds(42, 171, 159, 35);
 		frame.getContentPane().add(btnNewButton);
 		
 		textField = new JTextField();
